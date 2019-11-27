@@ -1,1 +1,1 @@
-# standards
+# Yoyo development standards
